@@ -1,0 +1,23 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vatsal Ghael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "repository": {
+     "type": "git",
+    "url": "Vatsal"
+  },
+  "keywords": [
+    "WEB322",
+    "A2"
+  ]
+}
